@@ -3,3 +3,8 @@
 /Users/Vanathi/Projects/BitOperations/LinkedLists/bin/Debug/LinkedLists.exe
 /Users/Vanathi/Projects/BitOperations/LinkedLists/obj/x86/Debug/LinkedLists.exe
 /Users/Vanathi/Projects/BitOperations/LinkedLists/obj/x86/Debug/LinkedLists.exe.mdb
+/home/vanathi/Sandbox/LinkedLists/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vanathi/Sandbox/LinkedLists/bin/Debug/LinkedLists.exe.mdb
+/home/vanathi/Sandbox/LinkedLists/bin/Debug/LinkedLists.exe
+/home/vanathi/Sandbox/LinkedLists/obj/x86/Debug/LinkedLists.exe
+/home/vanathi/Sandbox/LinkedLists/obj/x86/Debug/LinkedLists.exe.mdb

@@ -36,8 +36,10 @@ namespace LinkedLists
 
 		public static void Reverse(Node currNode, Node prevNode)
 		{
-			if (currNode.Next == null)				
+			if (currNode.Next == null) {
+				currNode.Next = prevNode;
 				return;
+			}
 			var next = currNode.Next;
 			currNode.Next = prevNode;
 			Reverse (next, currNode);

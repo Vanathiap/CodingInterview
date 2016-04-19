@@ -18,18 +18,17 @@ namespace LinkedLists
 			Console.WriteLine ("Reverse singly linked list");
 			var sll = new SinglyLinkedList (new[] { 1, 2, 3, 4, 5 });
 			Console.WriteLine (sll);
-			ReverseLinkedList.ReverseSLL (sll);
-			Console.WriteLine (sll);
+			//ReverseLinkedList.ReverseSLL (sll);
+			//Console.WriteLine (sll);
+			var node = sll.Tail;
 			ReverseLinkedList.Reverse (sll.Head, null);
 
-			Node currNode = null;
-			var sb = new StringBuilder ();
-			while (currNode != null) {
-				sb.AppendFormat("{0}->", currNode.Data);
-				currNode = currNode.Next;
+			while (node != null) {
+				Console.Write ("{0}->", node.Data);
+				node = node.Next;
 			}
-			sb.Append ("null");
-			Console.WriteLine (sb);
+			Console.Write ("null");
+			//Console.WriteLine (sll);
 		}
 
 		public static void Print(LinkedList<int> list)
