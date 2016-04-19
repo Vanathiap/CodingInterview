@@ -1,0 +1,5 @@
+/home/vanathi/Sandbox/HelloWorld/Subset/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vanathi/Sandbox/HelloWorld/Subset/bin/Debug/Subset.exe.mdb
+/home/vanathi/Sandbox/HelloWorld/Subset/bin/Debug/Subset.exe
+/home/vanathi/Sandbox/HelloWorld/Subset/obj/x86/Debug/Subset.exe
+/home/vanathi/Sandbox/HelloWorld/Subset/obj/x86/Debug/Subset.exe.mdb

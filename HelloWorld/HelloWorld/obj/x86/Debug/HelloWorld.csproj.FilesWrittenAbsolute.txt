@@ -1,0 +1,5 @@
+/home/vanathi/Sandbox/HelloWorld/HelloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vanathi/Sandbox/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/home/vanathi/Sandbox/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/vanathi/Sandbox/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/vanathi/Sandbox/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe.mdb

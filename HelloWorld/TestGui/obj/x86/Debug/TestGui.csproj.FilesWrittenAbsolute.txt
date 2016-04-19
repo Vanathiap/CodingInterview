@@ -1,0 +1,6 @@
+/home/vanathi/Sandbox/HelloWorld/TestGui/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vanathi/Sandbox/HelloWorld/TestGui/obj/x86/Debug/TestGui.gtk-gui.gui.stetic
+/home/vanathi/Sandbox/HelloWorld/TestGui/bin/Debug/TestGui.exe.mdb
+/home/vanathi/Sandbox/HelloWorld/TestGui/bin/Debug/TestGui.exe
+/home/vanathi/Sandbox/HelloWorld/TestGui/obj/x86/Debug/TestGui.exe
+/home/vanathi/Sandbox/HelloWorld/TestGui/obj/x86/Debug/TestGui.exe.mdb
