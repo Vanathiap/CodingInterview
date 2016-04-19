@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="LinkedLists/LinkedLists.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedLists/Program.cs">
+    <Files>
+      <File FileName="LinkedLists/Program.cs" Line="16" Column="49" />
+      <File FileName="LinkedLists/ReverseLinkedList.cs" Line="39" Column="21" />
+      <File FileName="LinkedLists/SinglyLinkedList.cs" Line="55" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Vanathi/Projects/BitOperations/LinkedLists/Program.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

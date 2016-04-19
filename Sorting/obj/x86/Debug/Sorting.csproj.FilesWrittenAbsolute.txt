@@ -1,0 +1,5 @@
+/Users/Vanathi/Projects/BitOperations/Sorting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Vanathi/Projects/BitOperations/Sorting/bin/Debug/Sorting.exe.mdb
+/Users/Vanathi/Projects/BitOperations/Sorting/bin/Debug/Sorting.exe
+/Users/Vanathi/Projects/BitOperations/Sorting/obj/x86/Debug/Sorting.exe
+/Users/Vanathi/Projects/BitOperations/Sorting/obj/x86/Debug/Sorting.exe.mdb
