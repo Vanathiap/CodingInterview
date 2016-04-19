@@ -1,15 +1,29 @@
-﻿<Properties StartupItem="LinkedLists/LinkedLists.csproj">
+﻿<Properties StartupItem="HelloWorld/Trees/Trees.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedLists/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Trees/BST.cs">
     <Files>
-      <File FileName="LinkedLists/Program.cs" Line="16" Column="49" />
-      <File FileName="LinkedLists/ReverseLinkedList.cs" Line="39" Column="21" />
-      <File FileName="LinkedLists/SinglyLinkedList.cs" Line="55" Column="8" />
+      <File FileName="LinkedLists/Program.cs" Line="1" Column="14" />
+      <File FileName="LinkedLists/ReverseLinkedList.cs" Line="1" Column="1" />
+      <File FileName="LinkedLists/SinglyLinkedList.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/Trees/Program.cs" Line="10" Column="1" />
+      <File FileName="HelloWorld/Trees/BST.cs" Line="60" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice" expanded="True">
+            <Node name="Trees" expanded="True">
+              <Node name="BST.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/Vanathi/Projects/BitOperations/LinkedLists/Program.cs" line="26" column="1" />
+      <Breakpoint file="/Users/Vanathi/Projects/BitOperations/LinkedLists/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/Program.cs" line="10" column="67" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

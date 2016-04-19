@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{E35336B4-CFB2-43D4-982B-8E258946F1BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "HelloWorld\Trees\Trees.csproj", "{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +29,10 @@ Global
 		{536A785C-F652-4736-9C65-8C0F95A19DF4}.Debug|x86.Build.0 = Debug|x86
 		{536A785C-F652-4736-9C65-8C0F95A19DF4}.Release|x86.ActiveCfg = Release|x86
 		{536A785C-F652-4736-9C65-8C0F95A19DF4}.Release|x86.Build.0 = Release|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Debug|x86.ActiveCfg = Debug|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Debug|x86.Build.0 = Debug|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Release|x86.ActiveCfg = Release|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Release|x86.Build.0 = Release|x86
 		{CDE3DEDB-23AC-4D21-BE85-8C1FBFDAE7A0}.Debug|x86.ActiveCfg = Debug|x86
 		{CDE3DEDB-23AC-4D21-BE85-8C1FBFDAE7A0}.Debug|x86.Build.0 = Debug|x86
 		{CDE3DEDB-23AC-4D21-BE85-8C1FBFDAE7A0}.Release|x86.ActiveCfg = Release|x86

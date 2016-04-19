@@ -3,3 +3,8 @@
 /home/vanathi/Sandbox/HelloWorld/Trees/bin/Debug/Trees.exe
 /home/vanathi/Sandbox/HelloWorld/Trees/obj/x86/Debug/Trees.exe
 /home/vanathi/Sandbox/HelloWorld/Trees/obj/x86/Debug/Trees.exe.mdb
+/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/bin/Debug/Trees.exe.mdb
+/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/bin/Debug/Trees.exe
+/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/obj/x86/Debug/Trees.exe
+/Users/Vanathi/Projects/BitOperations/HelloWorld/Trees/obj/x86/Debug/Trees.exe.mdb
