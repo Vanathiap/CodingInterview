@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "..\Decim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertBits", "..\InsertBits\InsertBits.csproj", "{D430F56B-C0E5-47C4-835F-65B08FF0B0F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -47,6 +49,10 @@ Global
 		{792EAD91-2751-4356-9795-BBBDC000E88F}.Debug|x86.Build.0 = Debug|x86
 		{792EAD91-2751-4356-9795-BBBDC000E88F}.Release|x86.ActiveCfg = Release|x86
 		{792EAD91-2751-4356-9795-BBBDC000E88F}.Release|x86.Build.0 = Release|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Debug|x86.ActiveCfg = Debug|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Debug|x86.Build.0 = Debug|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Release|x86.ActiveCfg = Release|x86
+		{9A97EE78-A9D5-472D-8B26-AF2D2A121EBA}.Release|x86.Build.0 = Release|x86
 		{9B49DC85-F8BC-43D9-A463-64878CF6A03C}.Debug|x86.ActiveCfg = Debug|x86
 		{9B49DC85-F8BC-43D9-A463-64878CF6A03C}.Debug|x86.Build.0 = Debug|x86
 		{9B49DC85-F8BC-43D9-A463-64878CF6A03C}.Release|x86.ActiveCfg = Release|x86
