@@ -1,24 +1,13 @@
 ﻿<Properties StartupItem="HelloWorld/Trees/Trees.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Trees/BST.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinkedLists/SinglyLinkedList.cs">
     <Files>
-      <File FileName="LinkedLists/Program.cs" Line="1" Column="14" />
+      <File FileName="LinkedLists/Program.cs" Line="1" Column="1" />
       <File FileName="LinkedLists/ReverseLinkedList.cs" Line="1" Column="1" />
       <File FileName="LinkedLists/SinglyLinkedList.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld/Trees/Program.cs" Line="10" Column="1" />
+      <File FileName="HelloWorld/Trees/Program.cs" Line="23" Column="4" />
       <File FileName="HelloWorld/Trees/BST.cs" Line="60" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Practice" expanded="True">
-            <Node name="Trees" expanded="True">
-              <Node name="BST.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
